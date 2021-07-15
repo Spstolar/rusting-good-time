@@ -53,8 +53,6 @@ When running a command in the terminal `--` means that we are done providing opt
 
 `cargo size --bin foo --release -- -A`  - prints binary size in System V format
 
-view help for binutils commands like `cargo size --help` and view the help for the proxied function with `cargo size -- --help` 
-
 ## Terms
 
 * Serial
